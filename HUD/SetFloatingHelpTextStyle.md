@@ -6,7 +6,7 @@ aliases: ["0x788E7FD431BD67F1"]
 
 ```c
 // 0x788E7FD431BD67F1 0x97852A82
-void SET_FLOATING_HELP_TEXT_STYLE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+void SET_FLOATING_HELP_TEXT_STYLE(Any p0, Any p1, Any p2, Any p3, 0-no arrow, 1-arrow on top, 2-arrow on left, 3-arrow down, 4-arrow on right p4, Any p5);
 ```
 
 ## Parameters
